@@ -1,7 +1,0 @@
-[#1]
-[person] Caitron Aoutice (from S.S.A)
-[title] Caitron Aoutice 和 Student Survival Alliance (S.S.A)
-[body]
-大家好，我是来自 Student Survival Alliance 的档案编辑员与解说员 Caitron Aoutice
-请多多关照
-[end]
